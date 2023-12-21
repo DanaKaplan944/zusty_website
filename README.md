@@ -1,8 +1,7 @@
-# React + Vite
+# Website for Zusty - A Zustand Dev Tool 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Chrome Extension](https://chromewebstore.google.com/detail/zusty/ckdnkkilcbkocfdpcaohdehnbeaefndo)
 
-Currently, two official plugins are available:
+[NPM](https://www.npmjs.com/package/zustymiddleware)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[GitHub](https://github.com/oslabs-beta/Zusty)
